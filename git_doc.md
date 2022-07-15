@@ -79,4 +79,4 @@ git clone https://github.com/Hurlang/ssafy8.git
 
 # 자격 증명 관리
 
-![image-20220715162110919](./README.assets/image-20220715162110919.png)
+![자격증명관리](./img/1.png)
