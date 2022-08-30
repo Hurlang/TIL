@@ -32,9 +32,9 @@ django
 
 # 프로젝트 실행
 
-![image-20220830103438347](django 설정.assets/image-20220830103438347.png)
+![image-20220830103438347](./django 설정.assets/image-20220830103438347.png)
 
-![image-20220830103507080](django 설정.assets/image-20220830103507080.png)
+![image-20220830103507080](./django 설정.assets/image-20220830103507080.png)
 
 빨간색 글씨 (You have 18 unapplied ... )는 DB때문에 발생한 것입니다.
 
@@ -50,23 +50,23 @@ http://127.0.0.1:8000 ctrl + click
 
 # 애플리케이션 생성
 
-![image-20220830105241297](django 설정.assets/image-20220830105241297.png)
+![image-20220830105241297](./django 설정.assets/image-20220830105241297.png)
 
-![image-20220830105318192](django 설정.assets/image-20220830105318192.png)
+![image-20220830105318192](./django 설정.assets/image-20220830105318192.png)
 
 
 
 **프로젝트에서 앱을 사용하기 위해서는 반드시 애플리케이션을 등록해야합니다. **
 
-![image-20220830105613115](django 설정.assets/image-20220830105613115.png)
+![image-20220830105613115](./django 설정.assets/image-20220830105613115.png)
 
-![image-20220830110923287](django 설정.assets/image-20220830110923287.png)
+![image-20220830110923287](./django 설정.assets/image-20220830110923287.png)
 
 ​											advanced 프로젝트 진행할 때를 대비해서 위와같이 나눠주면 좋습니다.
 
 # url 설정
 
-![image-20220830105921567](django 설정.assets/image-20220830105921567.png)
+![image-20220830105921567](./django 설정.assets/image-20220830105921567.png)
 
 
 
@@ -74,7 +74,7 @@ http://127.0.0.1:8000 ctrl + click
 
 # view 설정
 
-![image-20220830110022312](django 설정.assets/image-20220830110022312.png)
+![image-20220830110022312](./django 설정.assets/image-20220830110022312.png)
 
 
 
@@ -82,13 +82,13 @@ http://127.0.0.1:8000 ctrl + click
 
 # templates 디렉토리 생성
 
-![image-20220830110158205](django 설정.assets/image-20220830110158205.png)
+![image-20220830110158205](./django 설정.assets/image-20220830110158205.png)
 
 articles 하위에 만들어 줍니다.
 
-![image-20220830110258671](django 설정.assets/image-20220830110258671.png)
+![image-20220830110258671](./django 설정.assets/image-20220830110258671.png)
 
-![image-20220830110320326](django 설정.assets/image-20220830110320326.png)
+![image-20220830110320326](./django 설정.assets/image-20220830110320326.png)
 
 ^^ index.html
 
@@ -106,7 +106,7 @@ couldn't import Django. Are you sure it's installed and available on your PYTHON
 
 # 한국어 설정
 
-![image-20220830123032834](django 설정.assets/image-20220830123032834.png)
+![image-20220830123032834](./django 설정.assets/image-20220830123032834.png)
 
 
 
@@ -152,17 +152,17 @@ couldn't import Django. Are you sure it's installed and available on your PYTHON
 
 
 
-![image-20220830125124680](django 설정.assets/image-20220830125124680.png)
+![image-20220830125124680](./django 설정.assets/image-20220830125124680.png)
 
-![image-20220830125056596](django 설정.assets/image-20220830125056596.png)
+![image-20220830125056596](./django 설정.assets/image-20220830125056596.png)
 
-![image-20220830125142155](django 설정.assets/image-20220830125142155.png)
+![image-20220830125142155](./django 설정.assets/image-20220830125142155.png)
 
-![image-20220830125152727](django 설정.assets/image-20220830125152727.png)
+![image-20220830125152727](./django 설정.assets/image-20220830125152727.png)
 
-![image-20220830125554148](django 설정.assets/image-20220830125554148.png)
+![image-20220830125554148](./django 설정.assets/image-20220830125554148.png)
 
-![image-20220830125626662](django 설정.assets/image-20220830125626662.png)
+![image-20220830125626662](./django 설정.assets/image-20220830125626662.png)
 
 ![image-20220830125634515](django 설정.assets/image-20220830125634515.png)
 
@@ -170,21 +170,21 @@ couldn't import Django. Are you sure it's installed and available on your PYTHON
 
 > 랜덤으로 받아오기
 
-![image-20220830125937830](django 설정.assets/image-20220830125937830.png)
+![image-20220830125937830](./django 설정.assets/image-20220830125937830.png)
 
 
 
 > for문 사용
 
-![image-20220830131127883](django 설정.assets/image-20220830131127883.png)
+![image-20220830131127883](./django 설정.assets/image-20220830131127883.png)
 
-![image-20220830131107908](django 설정.assets/image-20220830131107908.png)
+![image-20220830131107908](./django 설정.assets/image-20220830131107908.png)
 
 
 
 > 주석 사용
 
-![image-20220830132225584](django 설정.assets/image-20220830132225584.png)
+![image-20220830132225584](./django 설정.assets/image-20220830132225584.png)
 
 ctrl + / 사용
 
@@ -196,7 +196,7 @@ ctrl + / 사용
 
 # 템플릿의 상속
 
-![image-20220830133019147](django 설정.assets/image-20220830133019147.png)
+![image-20220830133019147](./django 설정.assets/image-20220830133019147.png)
 
 settings에서 BASE_DIR 설정해줌
 
@@ -204,19 +204,19 @@ settings에서 BASE_DIR 설정해줌
 
 
 
-![image-20220830133055406](django 설정.assets/image-20220830133055406.png)
+![image-20220830133055406](./django 설정.assets/image-20220830133055406.png)
 
 templates 디렉토리 생성해줌
 
 
 
-![image-20220830144115613](django 설정.assets/image-20220830144115613.png)
+![image-20220830144115613](./django 설정.assets/image-20220830144115613.png)
 
 base.html
 
 
 
-![image-20220830144132326](django 설정.assets/image-20220830144132326.png)
+![image-20220830144132326](./django 설정.assets/image-20220830144132326.png)
 
 
 
@@ -230,25 +230,25 @@ base.html
 
 # urls.py를 프로젝트단 말고 개별 app단으로 옮기는 방법
 
-![image-20220830145945185](django 설정.assets/image-20220830145945185.png)
+![image-20220830145945185](./django 설정.assets/image-20220830145945185.png)
 
 프로젝트단 urls.py
 
 
 
-![image-20220830150142575](django 설정.assets/image-20220830150142575.png)
+![image-20220830150142575](./django 설정.assets/image-20220830150142575.png)
 
 app(articles) 단의 urls.py
 
 
 
-![image-20220830150217244](django 설정.assets/image-20220830150217244.png)
+![image-20220830150217244](./django 설정.assets/image-20220830150217244.png)
 
 app(articles) 단의 index.html
 
 
 
-![image-20220830150250487](django 설정.assets/image-20220830150250487.png)
+![image-20220830150250487](./django 설정.assets/image-20220830150250487.png)
 
 app(pages) 단의 urls.py  => 최소한 urlpatterns = [] 처럼 빈 리스트가 있어야 합니다.
 
