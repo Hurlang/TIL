@@ -24,9 +24,9 @@ django
 
 # 프로젝트 생성
 
-![image-20220830103254472](django 설정.assets/image-20220830103254472.png)
+![image-20220830103254472](./django 설정.assets/image-20220830103254472.png)
 
-![image-20220830103310539](django 설정.assets/image-20220830103310539.png)
+![image-20220830103310539](./django 설정.assets/image-20220830103310539.png)
 
 
 
