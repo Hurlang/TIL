@@ -4,23 +4,9 @@ django
 
 # 가상환경 활성화
 
-![image-20220830102504623](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20220830102504623.png)
-
-  
-
-![image-20220830102947756](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20220830102947756.png)
-
-![image-20220830102927578](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20220830102927578.png)
-
-![image-20220830102915852](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20220830102915852.png)
-
-![image-20220830102841302](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20220830102841302.png)
-
-![image-20220830103033025](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20220830103033025.png)
 
 
-
-
+![image-20220830165629531](./django설정.assets/image-20220830165629531.png)
 
 # 프로젝트 생성
 
