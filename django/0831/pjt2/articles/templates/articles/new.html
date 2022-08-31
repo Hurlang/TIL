@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <h1>NEW</h1>
+  <form action="{% url 'create' %}" method='GET'>
+    <label for="title">Title: </label>
+    <input type="text" id='title' name='title'>
+    <label for="content">Content: </label>
+    <input type="text" id='content' name='content'>
+    <input type="submit">
+  </form>
+  <hr>
+  <a href="{% url 'index' %}">뒤로가기</a>
+</body>
+</html>
